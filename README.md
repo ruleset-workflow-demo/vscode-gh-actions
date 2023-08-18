@@ -2,7 +2,7 @@
 
 The GitHub Actions extension lets you manage your workflows, view the workflow run history, and helps with authoring workflows.
 
-![](./media/header.png)
+![](./media/header.png)asdf
 
 ## Features
 
