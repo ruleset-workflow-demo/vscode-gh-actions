@@ -1,4 +1,4 @@
-import * as vscode from "vscode";
+import * as vscode from "vscode"
 
 import {canReachGitHubAPI} from "./api/canReachGitHubAPI";
 import {getSession} from "./auth/auth";
