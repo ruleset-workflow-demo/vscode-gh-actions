@@ -35,8 +35,9 @@ import {initTreeViews} from "./treeViews/treeViews";
 import {deactivateLanguageServer, initLanguageServer} from "./workflow/languageServer";
 import {registerSignIn} from "./commands/signIn";
 
-export async function activate(context: vscode.ExtensionContext) {
-  initLogger();
+export async function activate(context: vscode.ExtensionContext) 
+{
+   initLogger();
 
   log("Activating GitHub Actions extension...");
 
