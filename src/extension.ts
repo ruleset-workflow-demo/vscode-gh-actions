@@ -39,7 +39,7 @@ export async function activate(context: vscode.ExtensionContext)
 {
    initLogger();
 
-  log("Activating GitHub Actions extension...");
+  log("Activating GitHub Actions extension...');
 
   const hasSession = !!(await getSession());
   const canReachAPI = hasSession && (await canReachGitHubAPI());
