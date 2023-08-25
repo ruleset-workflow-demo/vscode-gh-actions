@@ -4,7 +4,7 @@ The GitHub Actions extension lets you manage your workflows, view the workflow r
 
 ![](./media/header.png)
 
-## Features
+## Features!
 
 ### Manage workflows and runs
 
