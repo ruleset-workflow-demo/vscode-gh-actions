@@ -1,4 +1,4 @@
-# GitHub Actions for VS Code!
+# GitHub Actions for VS Code!!
 
 The GitHub Actions extension lets you manage your workflows, view the workflow run history, and helps with authoring workflows.
 
